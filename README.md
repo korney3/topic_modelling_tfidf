@@ -4,6 +4,7 @@ The notebook is provided clusterization and topic analysis of set of posts from 
 
 The following code is strongly relied on tutorial [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6).
 
+![](./images/img.png)
 
 ## Get Text Embeddings
 
